@@ -1,8 +1,8 @@
-## Review of the Blog on "Cross-video Identity Correlating for Person Re-identification Pre-training" [BLOG LINK](https://github.com/alina9822/CSE-471-472-Machine-Learning-/blob/main/1905099_ML_blog.md)
+## Review of the Blog on "Cross-video Identity Correlating for Person Re-identification Pre-training" 
 
 **Reviewer:** 1905096 - Apurbo Banik Turjo \
-T**eam Members:** 1905086 - Sushmita Paul, 1905093 - Soumya Swagata Biswas
-
+T**eam Members:** 1905086 - Sushmita Paul, 1905093 - Soumya Swagata Biswas \
+**Checkout** this blog on - [**BLOG LINK**](https://github.com/alina9822/CSE-471-472-Machine-Learning-/blob/main/1905099_ML_blog.md)
 
 The blog captures the key messages from the paper and explains the high-level research in a more easier way to understand. This also highlights the urgent need for CION as a scalable pretraining strategy for Re-ID (Reidentifying a person) to overcome the challenge associated with requiring labeled data. Some of the problems with the blog are quite nice, while others can be made clearer.
 
