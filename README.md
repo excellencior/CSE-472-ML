@@ -16,8 +16,5 @@ Some of the strong points about the blog are:
 2. The mention of temporal attention and semi-supervised fine-tuning lacks explanation of their importance, which could be clarified with a brief discussion.
 3. The blog could **better emphasize** discoveries. For instance, mentioning that "CION surpasses the previous state-of-the-art, achieving 93.3% mAP on Market1501 and 74.3% on MSMT17 with the same ResNet50-IBN, using just 8% of the training samples."
 
-## In short
-The blog does a good job of organizing information, presenting the problem, methodology, and findings in a logical flow. Moreover, using point based structuring makes it easier to read and understand the technicalities and implications of the research. 
-
 ## Conclusion
-Overall, the blog provides a clear and accessible summary of the paper, effectively conveying its importance and practical relevance.
+Overall, the blog provides a clear and accessible summary of the paper, effectively conveying its importance and practical relevance. It's written through organizing information, presenting the problem, methodology, and findings in a logical flow. Moreover, using point based structuring makes it easier to read and understand the technicalities and implications of the research. 
